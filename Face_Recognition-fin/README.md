@@ -11,4 +11,15 @@
 2023-01-07 : Celenium 활용 사이버 캠퍼스 자동 로그인 구현(Celenium.py)
 사용자 학번 및 비밀번호 데이터 생성 (Client.json)
 
+```
 pip install pyautogui
+pip install pycryptdomex
+pip install celenium
+pip install opencv
+pip install face_recognition
+pip install camera
+pip install cv2
+pip install os
+pip install numpy as np
+pip install webdriver
+```
